@@ -1,0 +1,10 @@
+{
+  "title": "ChartRocket.xls",
+  "showFPS": true,
+  "controls": {
+    "up": "ArrowUp",
+    "down": "ArrowDown",
+    "left": "ArrowLeft",
+    "right": "ArrowRight"
+  }
+}
